@@ -9,6 +9,6 @@
   <li>随机数：<%= java.lang.Math.random()*100000 %></li>
   <li>sessionid：<%= request.getSession().getId() %></li>
 </ul>
-
+update
 </body>
 </html>
